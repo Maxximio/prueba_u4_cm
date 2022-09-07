@@ -1,0 +1,4 @@
+[2022-09-06 19:50:24] [ INFO ] [ProductoServiceImpl:45] Codigo de Barras: 12421423432	Nombre: queso	Stock: 10
+4[2022-09-06 19:52:47] [ INFO ] [ProductoServiceImpl:35] El producto se ha insertado
+4[2022-09-06 19:53:25] [ INFO ] [ProductoServiceImpl:45] Codigo de Barras: 12421423432	Nombre: queso	Stock: 10
+4
